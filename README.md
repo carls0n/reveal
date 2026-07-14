@@ -7,7 +7,7 @@ First, lets's compile reveal
 ```
 gcc -o reveal reveal.c
 ```
-Ready to run reveal and find any hidden LKM rootkits!
+Ready to run reveal and find hidden LKM rootkits!
 ```
 ./reveal
 ```
