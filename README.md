@@ -12,4 +12,4 @@ Ready to run reveal and find any hidden LKM rootkits!
 ./reveal
 ```
 
-You can use my <a href="https://github.com/carls0n/rootkit">Hide Only LKM</a> for research.
+You can use my Advanced Ultra Stealth <a href="https://github.com/carls0n/rootkit">Hide Only LKM</a> for research.
