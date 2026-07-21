@@ -1,4 +1,4 @@
-<img width="1370" height="798" alt="reveal" src="https://github.com/user-attachments/assets/77b1dd21-932e-4627-964c-de80443fc279" />
+<img width="1370" height="798" alt="reveal2" src="https://github.com/user-attachments/assets/da1974dd-2a39-4a42-a9a2-83336632aa35" />
 
 Reveal was written to find LKM rootkits by using signal scanning.
 Even modules hidden using kobj will be easily found. Even LKM rootkits that hide from memory scanning will be found!
