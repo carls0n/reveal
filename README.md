@@ -20,5 +20,7 @@ marc@archlinux~$ ./reveal
 [+] Actions to take - sudo rmmod diamorphine
 
 --- Final Status ---
-[*] Scan complete. Hidden entries are now permanently exposed.
+[*] Scan complete. Hidden entries are now permanently exposed.<br><br>
 ```
+You can read my write-up on <a href="https://github.com/carls0n/defeat_rootkit">defeating ftrace based rootkits</a>
+
